@@ -3,6 +3,7 @@ package pkg25.laptop.ram.management;
 public class Menu {
     
     public static void displayMenu() {
+        //the \m mot dong
         // Logic for displaying menu options to the user
         System.out.println("=================================== MENU ===================================");
         System.out.println("1. Create an Item");
