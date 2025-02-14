@@ -1,0 +1,27 @@
+RAMLPDDR5_1, LPDDR5, 5500MHz, Samsung, 15, 07/2022, true
+RAMDDR5_2, DDR5, 4800MHz, Corsair, 20, 05/2021, true
+RAMLPDDR4_3, LPDDR4, 4266MHz, Micron, 8, 11/2019, true
+RAMDDR4_4, DDR4, 3200MHz, Kingston, 12, 01/2020, true
+RAMDDR3_5, DDR3, 1600MHz, G.SKILL, 30, 09/2018, true
+RAMLPDDR3_6, LPDDR3, 1866MHz, Hynix, 25, 12/2017, false
+RAMDDR5_7, DDR5, 5200MHz, Crucial, 9, 06/2021, true
+RAMDDR4_8, DDR4, 3200MHz, ADATA, 14, 03/2020, true
+RAMDDR4_9, DDR4, 2666MHz, Patriot, 11, 02/2019, false
+RAMLPDDR4_10, LPDDR4, 4266MHz, Samsung, 10, 08/2022, true
+
+
+
+
+
+==========================
+RAMLPDDR5_3, LPDDR5, 5600MHz, Samsung, 20, 07/2022, true
+RAMDDR3_4, DDR3, 1600MHz, G.SKILL, 44, 09/2018, true
+RAMLPDDR4_5, LPDDR4, 4266MHz, Micron, 8, 11/2019, true
+RAMDDR4_1, DDR4, 3200MHz, Kingston, 10, 01/2020, true
+RAMDDR5_2, DDR5, 4800MHz, Corsair, 15, 05/2021, true
+RAMDDR5_7, DDR5, 5200MHz, Crucial, 9, 06/2021, true
+RAMDDR4_9, DDR4, 3000MHz, Patriot, 11, 02/2019, true
+RAMDDR4_6, DDR4, 3600MHz, ADATA, 14, 03/2020, true
+RAMLPDDR3_8, LPDDR3, 1866MHz, Hynix, 25, 12/2017, true
+globalCount: 9
+deletedCodes:
